@@ -45,8 +45,6 @@ public class Main {
 
             Scenario2 s = new Scenario2(input);
             s.solve();
-        } else {
-            
         }
     }
 }
